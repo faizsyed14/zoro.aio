@@ -103,3 +103,19 @@ Stack trace:
 
 [09-Nov-2022 03:46:55 UTC] SELECT * FROM options  WHERE option_scope = '0' AND option_load = '1'<AIO>select<AIO>7<AIO>/Users/faizuddin/Workspace/AIO/AIO/core/includes/connect/queries.php<AIO>options
 
+[09-Nov-2022 05:31:55 UTC] SELECT * FROM options  WHERE option_scope = '0' AND option_load = '1'<AIO>select<AIO>7<AIO>/Users/faizuddin/Workspace/AIO/AIO/core/includes/connect/queries.php<AIO>options
+
+[09-Nov-2022 05:31:55 UTC] SELECT * FROM options  WHERE option_scope = '0' AND option_load = '1'<AIO>select<AIO>7<AIO>/Users/faizuddin/Workspace/AIO/AIO/core/includes/connect/queries.php<AIO>options
+
+[09-Nov-2022 05:32:01 UTC] SELECT * FROM options  WHERE option_scope = '0' AND option_load = '1'<AIO>select<AIO>7<AIO>/Users/faizuddin/Workspace/AIO/AIO/core/includes/connect/queries.php<AIO>options
+
+[09-Nov-2022 05:32:01 UTC] SELECT * FROM options  WHERE option_scope = '0' AND option_load = '1'<AIO>select<AIO>7<AIO>/Users/faizuddin/Workspace/AIO/AIO/core/includes/connect/queries.php<AIO>options
+
+[09-Nov-2022 05:48:24 UTC] SELECT * FROM options  WHERE option_scope = '0' AND option_load = '1'<AIO>select<AIO>7<AIO>/Users/faizuddin/Workspace/AIO/AIO/core/includes/connect/queries.php<AIO>options
+
+[09-Nov-2022 05:48:25 UTC] SELECT * FROM options  WHERE option_scope = '0' AND option_load = '1'<AIO>select<AIO>7<AIO>/Users/faizuddin/Workspace/AIO/AIO/core/includes/connect/queries.php<AIO>options
+
+[09-Nov-2022 06:15:16 UTC] SELECT * FROM options  WHERE option_scope = '0' AND option_load = '1'<AIO>select<AIO>7<AIO>/Users/faizuddin/Workspace/AIO/AIO/core/includes/connect/queries.php<AIO>options
+
+[09-Nov-2022 06:15:18 UTC] SELECT * FROM options  WHERE option_scope = '0' AND option_load = '1'<AIO>select<AIO>7<AIO>/Users/faizuddin/Workspace/AIO/AIO/core/includes/connect/queries.php<AIO>options
+
